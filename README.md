@@ -56,3 +56,9 @@ ORDER BY Age DESC;
 # Test 5
 *  Explain the difference between a stored procedure and a function.
     * A stored procedure performs a task but doesn't return a value. A function performs a calculation and returns a value. Functions can be used in SQL expressions; procedures cannot.
+# Test 6
+  * Table name: Customer record Columns: Age, Gender, State, Names
+  *  What are triggers? Provide an example.
+     *  Triggers are automatic actions performed when specified events occur in a database. For example, we create a trigger to Age column.To autocorrect Age to 18 when age entered as less than 18.
+   
+       ![image](https://github.com/user-attachments/assets/18f4571c-a8f6-497b-88ab-a5db4b4a2da6)
