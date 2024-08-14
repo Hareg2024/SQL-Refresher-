@@ -65,4 +65,7 @@ ORDER BY Age DESC;
 # Test 7
 *  What are window functions in SQL?
    *  Window functions perform calculations across a set of table rows related to the current row, providing ranking, aggregating, and offset functionalities.
+ 
+     ![image](https://github.com/user-attachments/assets/d34fc5a4-9bf0-4ae9-b78c-0d6977d8403b)
+
      
