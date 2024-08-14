@@ -36,3 +36,14 @@ AND (State = "Brooklyn")
 AND (Gender NOT IN ("female", "N/A"))
 AND (Names LIKE "%stone%")
 ORDER BY Age DESC;
+
+# Test 3 
+*  Retrieve unique records from a table
+
+  SELECT DISTINCT Names, Age
+  FROM Customer records;
+
+# Test 4
+*  What is the difference between DELETE and TRUNCATE commands?
+    * DELETE removes rows based on a condition and can be rolled back if used within a transaction.
+    * TRUNCATE removes all rows from a table without logging individual row deletions and cannot be rolled back.
