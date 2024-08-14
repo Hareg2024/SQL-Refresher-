@@ -86,6 +86,6 @@ ORDER BY Age DESC;
  * MERGE allows you to perform INSERT, UPDATE, or DELETE operations in a single statement.
    ![image](https://github.com/user-attachments/assets/0f847c86-837e-454b-801b-bd4ee44373b8)
 ###  How do you implement recursive queries in SQL?
-    ![image](https://github.com/user-attachments/assets/3b1b6c81-efdb-460f-908c-df680c7cc0a6)
+   ![image](https://github.com/user-attachments/assets/3b1b6c81-efdb-460f-908c-df680c7cc0a6)
 
 
