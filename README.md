@@ -62,3 +62,7 @@ ORDER BY Age DESC;
      *  Triggers are automatic actions performed when specified events occur in a database. For example, we create a trigger to Age column.To autocorrect Age to 18 when age entered as less than 18.
    
        ![image](https://github.com/user-attachments/assets/18f4571c-a8f6-497b-88ab-a5db4b4a2da6)
+# Test 7
+*  What are window functions in SQL?
+   *  Window functions perform calculations across a set of table rows related to the current row, providing ranking, aggregating, and offset functionalities.
+     
