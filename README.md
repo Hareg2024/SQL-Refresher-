@@ -81,3 +81,11 @@ ORDER BY Age DESC;
   * How do you handle transactions in SQL?
 
      ![image](https://github.com/user-attachments/assets/e74b5313-ce28-46b0-965d-b0b0abf549fd)
+# Test 10
+### Explain the use of the MERGE statement.
+ * MERGE allows you to perform INSERT, UPDATE, or DELETE operations in a single statement.
+   ![image](https://github.com/user-attachments/assets/0f847c86-837e-454b-801b-bd4ee44373b8)
+###  How do you implement recursive queries in SQL?
+    ![image](https://github.com/user-attachments/assets/3b1b6c81-efdb-460f-908c-df680c7cc0a6)
+
+
