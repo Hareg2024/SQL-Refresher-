@@ -68,4 +68,10 @@ ORDER BY Age DESC;
  
      ![image](https://github.com/user-attachments/assets/d34fc5a4-9bf0-4ae9-b78c-0d6977d8403b)
 
-     
+
+# Test 8 
+*   How do you optimize a SQL query for performance?
+  *   Optimize by using indexes, avoiding unnecessary columns in SELECT, avoiding wildcards in SELECT, using appropriate JOINs, and ensuring proper use of WHERE clauses.
+*  What are the differences between SQL and NoSQL databases?
+  *  SQL databases are relational and use structured query language for defining and manipulating data. They are table-based.
+  *  NoSQL databases are non relational, can be document-based, key value pairs, graph databases, and are designed for distributed data stores. 
