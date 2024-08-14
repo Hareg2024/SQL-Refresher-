@@ -86,6 +86,14 @@ ORDER BY Age DESC;
  * MERGE allows you to perform INSERT, UPDATE, or DELETE operations in a single statement.
    ![image](https://github.com/user-attachments/assets/0f847c86-837e-454b-801b-bd4ee44373b8)
 ###  How do you implement recursive queries in SQL?
+
+  
    ![image](https://github.com/user-attachments/assets/3b1b6c81-efdb-460f-908c-df680c7cc0a6)
 
+ ### What is ACID property in the context of databases?
 
+* ACID stands for Atomicity, Consistency, Isolation, Durability.  These properties ensure reliable transactions
+#####  Atomicity: Ensures that all operations within a transaction are completed successfullyÅ
+##### Consistency: Ensures that the database remains in a consistent state before and after the transactionÅ
+##### Isolation: Ensures that transactions are isolated from each other
+#####  Durability: Ensures that once a transaction is committed, it remains committed.
