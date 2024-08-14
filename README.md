@@ -6,10 +6,10 @@ Columns: Age, Gender, State, Names
 
 # Test 1
 Write an SQL (Sequel) query
-🍷 to find all the customers who are between the ages of 16 and 25
-🍷 customers that either live in Tamasia, Brooklyn, Beverly
-🍷 Their gender isn't n/a
-🍷 And their names starts with either a 'C' or an 'O'
+*  to find all the customers who are between the ages of 16 and 25
+* customers that either live in Tamasia, Brooklyn, Beverly
+* Their gender isn't n/a
+* And their names starts with either a 'C' or an 'O'
 and order it by age
 
 SELECT *
@@ -25,10 +25,10 @@ The second test is lightly twitched😅
 
 Using the same table, write a query
 
-🍷 Of customers that are either 18 or 20
-🍷 Customers that live in Brooklyn
-🍷gender isn't female and N/A
-🍷Names contains a stone in it
+* Of customers that are either 18 or 20
+* Customers that live in Brooklyn
+* gender isn't female and N/A
+* Names contains a stone in it
 and order it in a descending order by age
 
 SELECT *
