@@ -21,8 +21,6 @@ AND (Names LIKE "C%" OR Names LIKE "O%" )
 ORDER BY Age;
 
 # Test 2
-The second test is lightly twitched😅
-
 Using the same table, write a query
 
 * Of customers that are either 18 or 20
