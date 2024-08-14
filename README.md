@@ -47,3 +47,6 @@ ORDER BY Age DESC;
 *  What is the difference between DELETE and TRUNCATE commands?
     * DELETE removes rows based on a condition and can be rolled back if used within a transaction.
     * TRUNCATE removes all rows from a table without logging individual row deletions and cannot be rolled back.
+# Test 5
+*  Explain the difference between a stored procedure and a function.
+    * A stored procedure performs a task but doesn't return a value. A function performs a calculation and returns a value. Functions can be used in SQL expressions; procedures cannot.
