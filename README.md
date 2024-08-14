@@ -77,3 +77,7 @@ ORDER BY Age DESC;
   *  NoSQL databases are non relational, can be document-based, key value pairs, graph databases, and are designed for distributed data stores.
 ###  How do you ensure data integrity in SQL databases?
 * Use constraints like primary keys, foreign keys, unique constraints, and check constraints. Implement ACID properties and proper indexing.
+# Test 9
+  * How do you handle transactions in SQL?
+
+     ![image](https://github.com/user-attachments/assets/e74b5313-ce28-46b0-965d-b0b0abf549fd)
