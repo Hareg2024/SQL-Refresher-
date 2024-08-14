@@ -19,6 +19,8 @@ AND (State IN ("Tamasia", "Brooklyn", "Beverly"))
 AND (Gender != n/a)
 AND (Names LIKE "C%" OR Names LIKE "O%" )
 ORDER BY Age;
+
+
  ![image](https://github.com/user-attachments/assets/6bca9987-8caa-46a2-bbc9-466afda615af)
 
 # Test 2
