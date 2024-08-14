@@ -40,6 +40,9 @@ AND (Gender NOT IN ("female", "N/A"))
 AND (Names LIKE "%stone%")
 ORDER BY Age DESC;
 
+
+![image](https://github.com/user-attachments/assets/59a66913-f49b-410e-b1f7-578d7bfd839f)
+
 # Test 3 
 *  Retrieve unique records from a table
 
