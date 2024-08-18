@@ -103,3 +103,32 @@ ORDER BY Age DESC;
 
 ![image](https://github.com/user-attachments/assets/5604dbf3-cd0b-441b-81f5-cc41a92bbe0c)
 
+
+## Data cleaning  Refresher
+
+### Remove duplicates 
+
+
+![image](https://github.com/user-attachments/assets/a217237d-697d-4932-9a11-1d139ceaceab)
+
+### Handling Missing Data
+
+![image](https://github.com/user-attachments/assets/5bb1628d-a80f-47b2-8805-ee2dfdd298f6)
+
+### Standardize date formats 
+
+![image](https://github.com/user-attachments/assets/ba5ea5ff-fb8a-40fa-8b52-7e22e3534cf4)
+
+### Handling outliers 
+
+![image](https://github.com/user-attachments/assets/d685f129-04a0-4aaf-af6f-74cb34b1656a)
+
+### Removing unnecessary data from the record 
+
+![image](https://github.com/user-attachments/assets/28f03597-467b-42e3-9d1d-063bd1e2a12f)
+
+
+
+
+
+
