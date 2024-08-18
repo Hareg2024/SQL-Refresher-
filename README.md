@@ -104,7 +104,7 @@ ORDER BY Age DESC;
 ![image](https://github.com/user-attachments/assets/5604dbf3-cd0b-441b-81f5-cc41a92bbe0c)
 
 
-## Data cleaning  Refresher
+# Data cleaning  Refresher
 
 ### Remove duplicates 
 
