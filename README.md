@@ -93,8 +93,8 @@ ORDER BY Age DESC;
  ### What is ACID property in the context of databases?
 
 #### ACID stands for Atomicity, Consistency, Isolation, Durability.  These properties ensure reliable transactions
-  * Atomicity: Ensures that all operations within a transaction are completed successfullyÅ
-  * Consistency: Ensures that the database remains in a consistent state before and after the transactionÅ
+  * Atomicity: Ensures that all operations within a transaction are completed successfully
+  * Consistency: Ensures that the database remains in a consistent state before and after the transaction
   * Isolation: Ensures that transactions are isolated from each other
   * Durability: Ensures that once a transaction is committed, it remains committed.
 
