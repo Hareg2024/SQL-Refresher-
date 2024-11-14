@@ -128,6 +128,19 @@ ORDER BY Age DESC;
 ![image](https://github.com/user-attachments/assets/28f03597-467b-42e3-9d1d-063bd1e2a12f)
 
 
+## Problem Statement:
+
+You are given a dataset of stock prices with columns stock_id, date, and price. For each stock on each date, you need to calculate a new column, price_change, which represents the direction of price movement compared to the previous day's price for the same stock. The expected values in the price_change column are:
+
+"NULL" if there is no previous day's price (e.g., the first date for each stock).
+"UP" if the price has increased from the previous day.
+"DOWN" if the price has decreased from the previous day.
+"SAME" if the price remains the same as the previous day.
+
+Your task is to transform the input data by adding the price_change column with the specified values, as shown in the expected output.
+
+![image](https://github.com/user-attachments/assets/0e56680e-3012-4443-936b-6cafbc043064)
+
 
 
 
